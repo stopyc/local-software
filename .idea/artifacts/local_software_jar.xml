@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="local-software:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/local_software_jar</output-path>
+    <root id="archive" name="local-software.jar">
+      <element id="module-output" name="local-software" />
+    </root>
+  </artifact>
+</component>
